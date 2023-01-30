@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Orkney";
+    src: url("Orkney-Regular.otf");
+}
+
 #img_f {
     position: absolute;
     top: 0;
@@ -19,6 +24,8 @@
     -webkit-backdrop-filter: blur(15px); /* assure la compatibilité avec safari */
     backdrop-filter: blur(15px);
     background-color: rgba(182, 182, 182, 0.3);
+    color: white;
+    font-family: "Orkney";
 }
 
 #menu:hover {
