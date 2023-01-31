@@ -76,7 +76,7 @@ body {
 
 #d2_end {
     position: absolute;
-    top: 400%;
+    top: 300%;
     width: 2%;
     height: 2%;
 }
@@ -87,4 +87,63 @@ body {
     top: 320%;
     width: 70%;
     height: 70%;
+}
+
+#d2_text {
+    color: paleturquoise;
+    position: absolute;
+    left: 10%;
+    top: 305%;
+    font-size: 350%;
+    opacity: 70%;
+}
+
+#d3_end {
+    position: absolute;
+    top: 680%;
+    width: 1%;
+    height: 1%;
+    left: 0;
+}
+
+#map1 {
+    position: absolute;
+    left: 10%;
+    top: 700%;
+    width: 70%;
+    height: 70%;
+}
+
+#d3_text {
+    position: absolute;
+    top: 685%;
+    font-size: 300%;
+    color: paleturquoise;
+    left: 10%;
+    opacity: 70%;
+}
+
+#d4_end {
+    position: absolute;
+    top: 1100%;
+    width: 1%;
+    height: 1%;
+    left: 0;
+}
+
+#map2 {
+    position: absolute;
+    left: 10%;
+    top: 1020%;
+    width: 70%;
+    height: 70%;
+}
+
+#d4_text {
+    position: absolute;
+    top: 1007%;
+    font-size: 300%;
+    color: paleturquoise;
+    left: 10%;
+    opacity: 70%;
 }
